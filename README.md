@@ -1,5 +1,5 @@
 # popup
-popup é ativado quando um clica em um botao
+popup é ativado quando há um clica no botão
 
 ## Desativado
 <img src="https://github.com/VictorAlexandre1986/popup/blob/main/screenshot1.png">
